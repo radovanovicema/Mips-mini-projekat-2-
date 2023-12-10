@@ -5,7 +5,8 @@
 - **Opseg radne temperature:** -20°C do +80°C
 
 ## Drajver:
-- Koristi se A4988 Stepper Motor Driver. [Specifikacije drajvera](https://www.pololu.com/product/1182/specs)
+- Koristi se A4988 Stepper Motor Driver.
+- [Specifikacije drajvera](https://www.pololu.com/product/1182/specs)
 
 ## Podaci za izradu projekta:
 1. **Broj koraka po okretaju (N_S):** 14
