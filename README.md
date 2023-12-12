@@ -24,8 +24,8 @@
 ## Uputstva za projekat:
 
 ### 1. Motor i drajver:
-   - Koristite sledeći [step motor](http://www.sah.rs/dm556-86hbp80al4.html) i [drajver](http://www.sah.rs/media/sah/techdocs/dm556_manual.pdf) za kontrolu motora.
-   - PIN dijagram za DM556 drajver možete pronaći [ovde](https://www.nkxmotor.com/wp-content/uploads/2021/05/dm556-pins.jpg).
+   - Za izradu projekta koristim sledeći [step motor](http://www.sah.rs/dm556-86hbp80al4.html) i [drajver](http://www.sah.rs/media/sah/techdocs/dm556_manual.pdf) za kontrolu motora.
+   -  DM556 drajver [ovde](https://www.nkxmotor.com/wp-content/uploads/2021/05/dm556-pins.jpg).
 
 
 
