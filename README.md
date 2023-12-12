@@ -1,27 +1,31 @@
 
 ## Podaci za izradu projekta:
 1. **Broj koraka po okretaju (N_S):** 14
-2. **Vrsta koraka (Vrsta):** R_B_SLOVA = 14
-3. **Temperatura (TEMP):** 70 stepeni
+2. **Vrsta:**
+   **E - 6 % 5 = 2
+   **M - 16 % 5 = 1 
+   **A - 1 % 5 = 1
+   **R - 21 % 5 = 1
+   **A - 1 % 5 = 1
+   **D - 5 % 5 = 0
+   **O - 19 % 5 = 4
+   **V - 3 % 5 = 3
+   **A - 1 % 5 = 1
+   **N - 17 % 5 = 2
+   **O - 19 % 5 = 4
+   **V - 3 % 5 = 3
+   **I - 11 % 5 = 1
+   **Ć - 25 % 5 = 0
+
+4. **Temperatura (TEMP):** 70 stepeni
 
 ---
 
 ## Uputstva za projekat:
 
-1. **Motor:**
+1. **Motor i drajver:**
    - Koristite step motor 
-   - [ST4118M1804.pdf](https://github.com/radovanovicema/Mips-mini-projekat-2-/files/13626134/ST4118M1804.pdf)
 
-   - Ugao koraka iznosi 1.8 stepeni, a radna temperatura se kreće od -20°C do +80°C.
 
-2. **Drajver:**
-   
-
-3. **Specifičnosti koraka:**
-   - Broj koraka po okretaju (N_S): 14.
-   - Vrsta koraka (Vrsta): R_B_SLOVA = 14.
-
-4. **Temperatura:**
-   - Projektujte sistem da radi pri temperaturi od 70 stepeni Celzijusa.
 
 
