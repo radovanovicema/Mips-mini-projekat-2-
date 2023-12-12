@@ -1,6 +1,6 @@
 ## Podaci za izradu projekta:
 
-1. **Broj koraka po okretaju (N_S):** 14
+1. **N_S:** 14
 2. **Vrsta:**
    - **E - 2**
    - **M - 1**
